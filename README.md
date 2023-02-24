@@ -42,9 +42,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/typescript.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/react.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/sass.svg"></code>
   <br />
   <code><img width="10%" src="https://simpleicons.org/icons/cplusplus.svg"></code>
 </p>
