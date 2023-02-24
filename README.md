@@ -1,4 +1,5 @@
 # 👋 Olá Devs! Meu nome é João Pedro Caetano e este é meu repositório pessoal de códigos. 
+***
 
 ## Sintam-se livres para entrar em contato comigo pelo meu <a href="https://www.linkedin.com/in/caetanojpo/" target="_blank">LinkedIn</a>   
 
