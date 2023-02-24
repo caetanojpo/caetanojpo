@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://media.licdn.com/dms/image/D4D16AQEzLcMb-qYylA/profile-displaybackgroundimage-shrink_350_1400/0/1675171841890?e=1682553600&v=beta&t=R_4Q5GOHlhA9fHtzbJbjD-AoyJGkI_kahxN3pE8_qDg" />
 
-- 👨🏽‍💻 My most recent project was [Forfix](https://github.com/caetanojpo/forfix-smartphoneRepair);
+- 👨🏽‍💻 My most recent project is [T-YOU](https://github.com/caetanojpo/tyou-tecnologia);
 - 🌱 I’m currently learning Vue.js and improving my fullstack skills; 
 - 👯 I’m looking to collaborate on [Fomenta Vale](https://github.com/FomentaVale) 🤝;
 - 💬 Ask me about anything, I am happy to help;
@@ -68,6 +68,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <p align="center">
   <a href="https://github.com/caetanojpo/forfix-smartphoneRepair">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=forfix-smartphoneRepair" />
+  </a>
+    <a href="https://github.com/caetanojpo/tyou-tecnologia">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=tyou-tecnologia" />
   </a>
   
 </p>
