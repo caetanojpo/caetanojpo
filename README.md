@@ -58,6 +58,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/caetanojpo/caetanojpo.svg" />
 </p>
+<br>
 
 ## Thank you for your attention!
 
