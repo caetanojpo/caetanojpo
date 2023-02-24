@@ -1,10 +1,10 @@
-# 👋 Olá Devs! Meu nome é João Pedro Caetano e este é meu repositório pessoal de códigos. 
+<h1>👋 Olá Devs! Meu nome é João Pedro Caetano e este é meu repositório pessoal de códigos. </h1>
+
+<br>
+<p> Sintam-se livres para entrar em contato comigo pelo meu <a href="https://www.linkedin.com/in/caetanojpo/" target="_blank">LinkedIn</a>  </p> 
 
 
-## Sintam-se livres para entrar em contato comigo pelo meu <a href="https://www.linkedin.com/in/caetanojpo/" target="_blank">LinkedIn</a>   
-
-
-## Ferramentas e Tecnologias
+<h2> Ferramentas e Tecnologias </h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 
