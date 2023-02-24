@@ -61,4 +61,12 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 ---
 
+<!-- Its main projects -->
+<p align="center">
+  <a href="https://github.com/caetanojpo/forfix-smartphoneRepair">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=forfix-smartphoneRepair" />
+  </a>
+  
+</p>
+
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
