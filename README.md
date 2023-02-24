@@ -1,14 +1,15 @@
-# 👋 Olá Devs! Meu nome é João Pedro Caetano e este é meu repositório pessoal de códigos, sintam-se livres para entrar em contato comigo pelo LinkedIn <a href="https://www.linkedin.com/in/caetanojpo/" target="_blank"></a>   
+# 👋 Olá Devs! Meu nome é João Pedro Caetano e este é meu repositório pessoal de códigos. 
+##Sintam-se livres para entrar em contato comigo pelo meu <a href="https://www.linkedin.com/in/caetanojpo/" target="_blank">LinkedIn</a>   
 
 
 ## Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 
 
 ## Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
 
 
 ## Contatos:
@@ -22,5 +23,5 @@
 <div>
 <a href="https://github.com/caetanojpo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanojpo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?caetanojpo-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?caetanojpo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
