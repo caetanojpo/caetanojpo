@@ -69,8 +69,8 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <a href="https://github.com/caetanojpo/forfix-smartphoneRepair">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=forfix-smartphoneRepair" />
   </a>
-    <a href="https://github.com/caetanojpo/tyou-tecnologia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=tyou-tecnologia" />
+    <a href="https://github.com/caetanojpo/pedro-molitor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=pedro-molitor" />
   </a>
   
 </p>
