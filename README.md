@@ -15,8 +15,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Me, myself and I:**
 
-<!-- Any image aligned to the right. Beware the width -->
+<!-- Any image aligned to the right. Beware the width 
 <img width="55%" align="right" alt="Github" src="https://media.licdn.com/dms/image/D4D16AQEzLcMb-qYylA/profile-displaybackgroundimage-shrink_350_1400/0/1675171841890?e=1682553600&v=beta&t=R_4Q5GOHlhA9fHtzbJbjD-AoyJGkI_kahxN3pE8_qDg" />
+-->
 
 - 👨🏽‍💻 My most recent project is [bcb-k4etano](https://github.com/caetanojpo/bcb_k4etano);
 - 🌱 I’m currently focusing on NestJS/Next.js to improve my fullstack skills; 
