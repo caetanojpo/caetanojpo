@@ -44,7 +44,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></code>
@@ -70,7 +70,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=forfix-smartphoneRepair" />
   </a>
     <a href="https://github.com/caetanojpo/bcb_k4etano">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&bcb_k4etano" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=bcb_k4etano" />
   </a>
   
 </p>
