@@ -18,8 +18,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://media.licdn.com/dms/image/D4D16AQEzLcMb-qYylA/profile-displaybackgroundimage-shrink_350_1400/0/1675171841890?e=1682553600&v=beta&t=R_4Q5GOHlhA9fHtzbJbjD-AoyJGkI_kahxN3pE8_qDg" />
 -->
 
-- 👨🏽‍💻 My most recent project is [bcb-k4etano](https://github.com/caetanojpo/bcb_k4etano);
-- 🌱 I’m currently focusing on NestJS/Next.js to improve my fullstack skills; 
+- 👨🏽‍💻 My most recent project is [erp-training](https://github.com/caetanojpo/erp-training);
+- 🌱 I’m currently focusing on Spring Boot.js to improve my backend skills; 
 - 👯 I’m looking to collaborate on Ondefy Tracking 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in law school;
@@ -38,7 +38,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   <br />
