@@ -19,8 +19,9 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 - 👨🏽‍💻 My most recent project is [tivia-test](https://github.com/caetanojpo/tivia-test);
-- 🌱 I’m currently focusing on Spring Boot.js to improve my backend skills; 
+- 🌱 I’m currently focusing on Spring Boot to improve my backend skills; 
 - 👯 I’m looking to collaborate on Ondefy Tracking 🤝;
+- 🌄 My latest freelance project is [brasoul](https://www.brasoulbeautycare.com/);
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in law school;
 - 📫 How to reach me: caetanojpo@gmail.com;
