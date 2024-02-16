@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://media.licdn.com/dms/image/D4D16AQEzLcMb-qYylA/profile-displaybackgroundimage-shrink_350_1400/0/1675171841890?e=1682553600&v=beta&t=R_4Q5GOHlhA9fHtzbJbjD-AoyJGkI_kahxN3pE8_qDg" />
 -->
 
-- 👨🏽‍💻 My most recent project is [erp-training](https://github.com/caetanojpo/tivia-test);
+- 👨🏽‍💻 My most recent project is [tivia-test](https://github.com/caetanojpo/tivia-test);
 - 🌱 I’m currently focusing on Spring Boot.js to improve my backend skills; 
 - 👯 I’m looking to collaborate on Ondefy Tracking 🤝;
 - 💬 Ask me about anything, I am happy to help;
@@ -78,7 +78,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=erp-training" />
   </a>
    <a href="https://www.brasoulbeautycare.com/">
-    <img align="center" src="https://www.brasoulbeautycare.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffingerprint-map-digital.1a519785.png&w=48&q=75" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=brasoul-beauty-care" />
   </a>
   
 </p>
