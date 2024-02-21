@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://media.licdn.com/dms/image/D4D16AQEzLcMb-qYylA/profile-displaybackgroundimage-shrink_350_1400/0/1675171841890?e=1682553600&v=beta&t=R_4Q5GOHlhA9fHtzbJbjD-AoyJGkI_kahxN3pE8_qDg" />
 -->
 
-- 👨🏽‍💻 My most recent project is [tivia-test](https://github.com/caetanojpo/tivia-test);
+- 👨🏽‍💻 My most recent project is [happfy microsservices](https://github.com/caetanojpo/happfy-users);
 - 🌱 I’m currently focusing on Spring Boot to improve my backend skills; 
 - 👯 I’m looking to collaborate on Ondefy Tracking 🤝;
 - 🌄 My latest freelance project is [brasoul](https://www.brasoulbeautycare.com/);
