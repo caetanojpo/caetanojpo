@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://media.licdn.com/dms/image/D4D16AQEzLcMb-qYylA/profile-displaybackgroundimage-shrink_350_1400/0/1675171841890?e=1682553600&v=beta&t=R_4Q5GOHlhA9fHtzbJbjD-AoyJGkI_kahxN3pE8_qDg" />
 -->
 
-- 👨🏽‍💻 My most recent project is [Vale Imoveis ADM](https://github.com/caetanojpo/valeimoveisadmin);
+<!--- 👨🏽‍💻 My most recent project is [Vale Imoveis ADM](https://github.com/caetanojpo/valeimoveisadmin); -->
 - 🌱 I’m currently focusing on Spring Boot to improve my backend skills; 
 - 👯 I’m looking to collaborate on [T_YOU](https://www.linkedin.com/company/102191177/admin/feed/posts/) 🤝;
 - 🌄 My latest freelance project is [brasoul](https://www.brasoulbeautycare.com/);
@@ -75,8 +75,8 @@ Both apis are in trouble due to the number of requests, if you know any other to
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=picpay-challenge" />
   </a>
     </a>
-    <a href="https://github.com/caetanojpo/erp-training">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=erp-training" />
+    <a href="https://github.com/caetanojpo/miscota">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=miscota" />
   </a>
    <a href="https://www.brasoulbeautycare.com/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=brasoul-beauty-care" />
