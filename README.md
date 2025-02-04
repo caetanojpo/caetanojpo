@@ -71,8 +71,8 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <a href="https://github.com/caetanojpo/tivia-test">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=tivia-test" />
   </a>
-    <a href="https://github.com/caetanojpo/picpay-challenge">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=picpay-challenge" />
+    <a href="https://github.com/caetanojpo/gutenberg-api">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caetanojpo&repo=gutenberg-api" />
   </a>
     </a>
     <a href="https://github.com/caetanojpo/miscota">
