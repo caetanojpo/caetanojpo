@@ -2,7 +2,7 @@ name: Update Visitor Count
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
   push:
     branches:
       - main
@@ -19,7 +19,7 @@ jobs:
       - name: Fetch Profile Views
         run: |
           VISITORS_FILE="visitors.json"
-          NEW_VISITS=$(( $(curl -s https://api.github.com/repos/YOUR_USERNAME/YOUR_REPO | jq '.stargazers_count') + 0 ))
+          NEW_VISITS=$(( $(curl -s https://api.github.com/repos/caetanojpo/caetanojpo | jq '.stargazers_count') + 0 ))
 
           # Read previous visits
           if [ -f "$VISITORS_FILE" ]; then
