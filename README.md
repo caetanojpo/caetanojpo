@@ -2,6 +2,7 @@
 **Full-Stack Developer | Software Architecture Enthusiast**  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caetanojpo/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:caetanojpo@gmail.com)
+[![Visitors](https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https://api.countapi.xyz/hit/caetanojpo/caetanojpo)](https://countapi.xyz/)
 
 <div align="center">
   <img width="45%" align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=caetanojpo&show_icons=true&hide_border=true&theme=radical" />
