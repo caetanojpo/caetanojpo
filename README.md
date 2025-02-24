@@ -2,7 +2,9 @@
 **Full-Stack Developer | Software Architecture Enthusiast**  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caetanojpo/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:caetanojpo@gmail.com)
-![Visitors](https://raw.githubusercontent.com/caetanojpo/caetanojpo/main/visitors.json?updated=1)
+![GitHub visitors](https://komarev.com/ghpvc/?username=caetanojpo&label=Profile%20views&color=0e75b6&style=flat)
+
+
 
 <div align="center">
   <img width="45%" align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=caetanojpo&show_icons=true&hide_border=true&theme=radical" />
