@@ -59,8 +59,7 @@
 
 ## 🌍 Community Engagement
 - **Rotary International**: Former Club President & Public Image Director
-- **Polyglot**: PT (Native) | EN (Advanced) | ES (Intermediate)
-- **Tech Mentor**: Regular contributor to coding forums and local tech meetups
+- **Polyglot**: PT (Native) | EN (Advanced) | ES (Basic)
 
 ## 📬 Let's Connect/Partner Up!
 
